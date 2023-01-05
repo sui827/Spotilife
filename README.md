@@ -1,5 +1,3 @@
-# Spotilife
-
 # Features
 
 * Spotify Unlimited Skips
