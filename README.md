@@ -1,10 +1,5 @@
 # Spotilife
 
-# Credit
-
-* [@qnblackcat](https://github.com/qnblackcat)
-* [@julioverne](https://github.com/julioverne)
-
 # Features
 
 * Spotify Unlimited Skips
@@ -15,5 +10,11 @@
 
 https://github.com/sui827/Spotilife/releases
 
+# Credit
+
+* [@qnblackcat](https://github.com/qnblackcat)
+* [@julioverne](https://github.com/julioverne)
+
 # Support the developers
+
 - [**julioverne**](https://twitter.com/ijulioverne): https://www.patreon.com/julioverne
