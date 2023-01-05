@@ -2,8 +2,8 @@
 
 #Credit
 
-@qnblackcat
-@julioverne
+[@qnblackcat](https://github.com/qnblackcat)
+[@julioverne](https://github.com/julioverne)
 
 #Features
 
