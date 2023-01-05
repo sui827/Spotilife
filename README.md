@@ -2,16 +2,16 @@
 
 #Credit
 
-[@qnblackcat](https://github.com/qnblackcat)
-[@julioverne](https://github.com/julioverne)
+*[@qnblackcat](https://github.com/qnblackcat)
+*[@julioverne](https://github.com/julioverne)
 
 #Features
 
 Features:
 
-1.Spotify Unlimited Skips
-2.Listen to Music without ads
-3.Import songs from Music
+*Spotify Unlimited Skips
+*Listen to Music without ads
+*Import songs from Music
 
 #Download
 
