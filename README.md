@@ -1,19 +1,17 @@
 # Spotilife
 
-#Credit
+# Credit
 
 * [@qnblackcat](https://github.com/qnblackcat)
 * [@julioverne](https://github.com/julioverne)
 
-#Features
+# Features
 
-Features:
+* Spotify Unlimited Skips
+* Listen to Music without ads
+* Import songs from Music
 
-*Spotify Unlimited Skips
-*Listen to Music without ads
-*Import songs from Music
-
-#Download
+# Download
 
 : https://github.com/sui827/Spotilife/releases
 
