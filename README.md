@@ -13,7 +13,7 @@
 
 # Download
 
-: https://github.com/sui827/Spotilife/releases
+https://github.com/sui827/Spotilife/releases
 
 # Support the developers
 - [**julioverne**](https://twitter.com/ijulioverne): https://www.patreon.com/julioverne
